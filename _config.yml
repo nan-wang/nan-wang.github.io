@@ -6,10 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Not a Number
+title: Nan = Not a Number
 email: nan.wang.28@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    我用这个网站记录自己的笔记。
+    Notes on my journey of data science and machine learning. 
+    我用这个网站记录自己在数据科学和机器学习的笔记。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nanwang.me" # the base hostname & protocol for your site
 twitter_username: nanwang_t
