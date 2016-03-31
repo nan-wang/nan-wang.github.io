@@ -3,13 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi, I'm Nan, a data scientist working at Zalando SE. I've done my PhD on deep learning and computational neuroscience at [Institut für Neuroinformatik](http://www.ini.rub.de/home) under the supervision of [Prof. Laurenz Wiskott](http://www.ini.rub.de/users/laurenz-wiskott). 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This is my blog for keeping my notes during the journey of data science and machine learning. 
